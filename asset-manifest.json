@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/IOT_LAB/static/js/main.68a75deb.chunk.js",
+    "main.js.map": "/IOT_LAB/static/js/main.68a75deb.chunk.js.map",
+    "runtime-main.js": "/IOT_LAB/static/js/runtime-main.a354fb74.js",
+    "runtime-main.js.map": "/IOT_LAB/static/js/runtime-main.a354fb74.js.map",
+    "static/js/2.4ad4c8bc.chunk.js": "/IOT_LAB/static/js/2.4ad4c8bc.chunk.js",
+    "static/js/2.4ad4c8bc.chunk.js.map": "/IOT_LAB/static/js/2.4ad4c8bc.chunk.js.map",
+    "index.html": "/IOT_LAB/index.html",
+    "static/js/2.4ad4c8bc.chunk.js.LICENSE.txt": "/IOT_LAB/static/js/2.4ad4c8bc.chunk.js.LICENSE.txt",
+    "static/media/p10.aca26de9.jpg": "/IOT_LAB/static/media/p10.aca26de9.jpg",
+    "static/media/p11.e4ef6a12.jpg": "/IOT_LAB/static/media/p11.e4ef6a12.jpg",
+    "static/media/p7.3925cb27.jpg": "/IOT_LAB/static/media/p7.3925cb27.jpg",
+    "static/media/p8.f2e0621f.jpg": "/IOT_LAB/static/media/p8.f2e0621f.jpg",
+    "static/media/p9.383a3de6.jpg": "/IOT_LAB/static/media/p9.383a3de6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a354fb74.js",
+    "static/js/2.4ad4c8bc.chunk.js",
+    "static/js/main.68a75deb.chunk.js"
+  ]
+}
