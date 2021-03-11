@@ -1,0 +1,136 @@
+body{
+    background-color: grey;
+}
+.main{
+    margin: 40px;
+   
+   
+}
+.mainmenu{
+   
+    background-color: teal;
+}
+.mainmenu > ul{
+
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+
+}
+.mainmenu >ul >li{
+    display: inline-block;
+}
+.mainmenu >ul >li >a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: small;
+}
+.mainmenu >ul >li >a:hover{
+    background-color: orange;
+}
+.drop{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    display: none;
+    z-index: 999;
+}
+.drop>li>a{
+    color:black;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: small;
+    background-color: papayawhip;
+
+}
+.drop>li>a:hover{
+    background-color: orange;
+}
+.mainmenu >ul >li:hover .drop{
+    display: block;
+} 
+.Banner{
+   background-color:rgb(240, 166, 30);
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+.Banner>img{
+    width: 1000px;
+    height: 300px;
+}
+.Content-holder{
+    background-color: white;
+    height: 250px;
+}
+.Content-holder>ul{
+
+    margin-top: 20px;
+    padding: 0px;
+    list-style-type: none;
+    box-shadow: 1.5px;
+    color:black
+}
+.Content-holder>ul>li{
+    display: inline-block;
+}
+.Content-holder>ul>li>img{
+    width: 250px;
+    height: 190px;
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: small;
+}
+.Task-bar{
+    background-color: white;
+}
+.Task-bar>ul{
+    margin-top: 20px;
+    padding: 0px;
+    list-style-type: none;
+    box-shadow: 1.5px;
+    color: white;
+}
+.Task-bar>ul>li{
+    display: inline-block;
+    color: black
+}
+.Task-bar>ul>li>img{
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin: 20px;
+    
+}
+.Task-bar>ul>li>div{
+    background-color: aquamarine;
+    display: block;
+    margin: 25px;
+    padding: 10px;
+}
+.Task-bar>ul>li>p{
+    background-color: aqua;
+    margin-left: 1000px;
+   color: blue;
+    display: block;
+    
+    
+}
+.para{
+    width: 600px;
+}
+
+
+
+
+
+
